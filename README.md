@@ -128,7 +128,7 @@ This is a paper list for speech translation.
 - Adapting pretrained transformer to lattices for spoken language understanding, ASRU-2019
 - Efficient semi-supervised learning for natural language understanding by optimizing diversity, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.04196.pdf)
 - Joint learning of word and label embeddings for sequence labelling in spoken language understanding, ASRU-2019, [[paper]](https://128.84.21.199/pdf/1910.07150.pdf)
-- Transfer learning for context-aware spoken language understanding, ASRU-2019
+- Transfer learning for context-aware spoken language understanding, ASRU-2019, [[paper]](https://arxiv.org/pdf/2003.01305)
 - Speech Sentiment Analysis Via Pre-Trained Features From End-To-End Asr Models, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.09762.pdf)
 - Recent Advances in End-to-End Spoken Language Understanding, [[paper]](https://arxiv.org/pdf/1909.13332.pdf)
 - Modeling Inter-Speaker Relationship In Xlnet For Contextual Spoken Language Understanding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12531.pdf)
@@ -136,6 +136,16 @@ This is a paper list for speech translation.
 ## Text Normalization
 - A Hybrid Text Normalization System Using Multi-Head Self-Attention For Mandarin, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04128.pdf)
 - A Unified Sequence-To-Sequence Front-End Model For Mandarin Text-To-Speech Synthesis, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04111.pdf)
+
+## Disfluency Detection
+- Semi-Supervised Disfluency Detection, COLING-2018, [[paper]](https://www.aclweb.org/anthology/C18-1299.pdf)
+- Adapting Translation Models for Transcript Disfluency Detection, AAAI-2019, [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597)
+- Giving Attention to the Unexpected:Using Prosody Innovations in Disfluency Detection, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1904.04388)
+- Multi-Task Self-Supervised Learning for Disfluency Detection, AAAI-2020, [[paper]](https://arxiv.org/abs/1908.05378)
+
+
+## Punctuation Prediction
+- Controllable Time-Delay Transformer for Real-Time Punctuation Prediction and Disfluency Detection, ICASSP-2020，[[paper]](https://arxiv.org/pdf/2003.01309)
 
 # Workshop
 - IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
