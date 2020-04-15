@@ -82,17 +82,20 @@ This is a paper list for speech translation.
 - ON-TRAC Consortium End-to-End Speech Translation Systems for the IWSLT 2019 Shared Task, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1910.13689.pdf)
 - Harnessing Indirect Training Data for End-to-End Automatic Speech Translation: Tricks of the Trade, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1909.06515v2.pdf)
 - Data Efficient Direct Speech-to-Text Translation with Modality Agnostic Meta-Learning, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.04283.pdf)
+- Enhancing Transformer for End-to-end Speech-to-Text Translation, EAMT-2019, [[paper]](https://www.aclweb.org/anthology/W19-6603.pdf)
 - On Using SpecAugment for End-to-End Speech Translation, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1911.08876.pdf)
 - Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding, AAAI-2020, [[paper]](https://arxiv.org/abs/1912.07240)
 - From Speech-To-Speech Translation To Automatic Dubbing, Arxiv-2020, [[paper]](https://arxiv.org/abs/2001.06785)
 - Skinaugment: Auto-Encoding Speaker Conversions For Automaticspeech Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/2002.12231)
+- Speech Translation and the End-to-EndPromise:Taking Stock of Where We Are, ACL-2020 theme track, [[paper]](https://arxiv.org/pdf/2004.06358) 
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
 - One-To-Many Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.03320.pdf)
 
-## Multimodal ST
+## Multimodal MT
 - Transformer-based Cascaded Multimodal Speech Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.13215.pdf)
+- Towards Multimodal Simultaneous Neural Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.03180)
 
 ## Streaming MT
 - Simultaneous translation of lectures and speeches, Machine Translation-2007, [[paper]](https://ccc.inaoep.mx/~villasen/bib/Simultaneous%20translation%20of%20lectures%20and%20speeches.pdf)
@@ -118,6 +121,7 @@ This is a paper list for speech translation.
 - Simultaneous Neural Machine Translation using Connectionist Temporal Classification, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.11933.pdf)
 - Re-Translation Strategies For Long Form, Simultaneous, Spoken Language Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1912.03393.pdf) 
 - Learning Coupled Policies for Simultaneous Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.04306)
+- Re-translation versus Streaming for Simultaneous Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.03643)
 
 # Related Works
 ## Spoken Language Understanding
@@ -143,10 +147,12 @@ This is a paper list for speech translation.
 - Adapting Translation Models for Transcript Disfluency Detection, AAAI-2019, [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597)
 - Giving Attention to the Unexpected:Using Prosody Innovations in Disfluency Detection, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1904.04388)
 - Multi-Task Self-Supervised Learning for Disfluency Detection, AAAI-2020, [[paper]](https://arxiv.org/abs/1908.05378)
+- Improving Disfluency Detection by Self-Training a Self-Attentive Model, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.05323)
 
 
 ## Punctuation Prediction
 - Controllable Time-Delay Transformer for Real-Time Punctuation Prediction and Disfluency Detection, ICASSP-2020，[[paper]](https://arxiv.org/pdf/2003.01309)
+- Punctuation Prediction in Spontaneous Conversations: Can We Mitigate ASR Errors with Retrofitted Word Embeddings, INTERSPEECH-2020 (submitted), [[paper]](https://arxiv.org/pdf/2004.05985)
 
 # Workshop
 - IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
