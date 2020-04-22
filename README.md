@@ -87,7 +87,8 @@ This is a paper list for speech translation.
 - Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding, AAAI-2020, [[paper]](https://arxiv.org/abs/1912.07240)
 - From Speech-To-Speech Translation To Automatic Dubbing, Arxiv-2020, [[paper]](https://arxiv.org/abs/2001.06785)
 - Skinaugment: Auto-Encoding Speaker Conversions For Automaticspeech Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/2002.12231)
-- Speech Translation and the End-to-EndPromise:Taking Stock of Where We Are, ACL-2020 theme track, [[paper]](https://arxiv.org/pdf/2004.06358) 
+- Speech Translation and the End-to-End Promise:Taking Stock of Where We Are, ACL-2020 theme track, [[paper]](https://arxiv.org/pdf/2004.06358) 
+- Curriculum Pre-training for End-to-End Speech Translation, ACL-2020, [[paper]](https://arxiv.org/pdf/2004.10093)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
