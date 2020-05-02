@@ -140,6 +140,7 @@ This is a paper list for speech translation.
 - Recent Advances in End-to-End Spoken Language Understanding, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1909.13332.pdf)
 - Modeling Inter-Speaker Relationship In Xlnet For Contextual Spoken Language Understanding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12531.pdf)
 - A Data Efficient End-To-End Spoken Language Understanding Architecture, ICASSP-2020, [[paper]](https://arxiv.org/pdf/2002.05955)
+- End-to-end speech-to-dialog-act recognition, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.11419)
 
 ## Text Normalization
 - A Hybrid Text Normalization System Using Multi-Head Self-Attention For Mandarin, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04128.pdf)
