@@ -91,6 +91,7 @@ This is a paper list for speech translation.
 - Curriculum Pre-training for End-to-End Speech Translation, ACL-2020, [[paper]](https://arxiv.org/pdf/2004.10093)
 - Jointly Trained Transformers models for Spoken Language Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.12111)
 - ESPnet-ST: All-in-One Speech Translation Toolkit, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.10234)
+- Relative Positional Encoding for Speech Recognition and Direct Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2005.09940)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
