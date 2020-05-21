@@ -125,6 +125,7 @@ This is a paper list for speech translation.
 - Re-Translation Strategies For Long Form, Simultaneous, Spoken Language Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1912.03393.pdf) 
 - Learning Coupled Policies for Simultaneous Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.04306)
 - Re-translation versus Streaming for Simultaneous Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.03643)
+- Efficient Wait-k Models for Simultaneous Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/abs/2005.08595)
 
 # Related Works
 ## Spoken Language Understanding
