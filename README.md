@@ -93,6 +93,7 @@ This is a paper list for speech translation.
 - ESPnet-ST: All-in-One Speech Translation Toolkit, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.10234)
 - Relative Positional Encoding for Speech Recognition and Direct Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2005.09940)
 - Worse WER, but Better BLEU? Leveraging Word Embedding asIntermediate in Multitask End-to-End Speech Translation, ACL-2020, [[paper]](https://arxiv.org/abs/2005.10678)
+- ON-TRAC Consortium for End-to-End and Simultaneous SpeechTranslation Challenge Tasks at IWSLT 2020, IWSLT-2020, [[paper]](https://arxiv.org/pdf/2005.11861)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
