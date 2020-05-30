@@ -94,6 +94,8 @@ This is a paper list for speech translation.
 - Relative Positional Encoding for Speech Recognition and Direct Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2005.09940)
 - Worse WER, but Better BLEU? Leveraging Word Embedding asIntermediate in Multitask End-to-End Speech Translation, ACL-2020, [[paper]](https://arxiv.org/abs/2005.10678)
 - ON-TRAC Consortium for End-to-End and Simultaneous SpeechTranslation Challenge Tasks at IWSLT 2020, IWSLT-2020, [[paper]](https://arxiv.org/pdf/2005.11861)
+- Phone Features Improve Speech Translation, ACL-2020, [[paper]](https://arxiv.org/pdf/2005.13681)
+- Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2005.11185)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -146,6 +148,9 @@ This is a paper list for speech translation.
 - Modeling Inter-Speaker Relationship In Xlnet For Contextual Spoken Language Understanding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12531.pdf)
 - A Data Efficient End-To-End Spoken Language Understanding Architecture, ICASSP-2020, [[paper]](https://arxiv.org/pdf/2002.05955)
 - End-to-end speech-to-dialog-act recognition, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.11419)
+
+## Named Entity Recognition
+- End-to-end Named Entity Recognition from English Speech, INTERSPEECH2020(submitted), [[paper]](https://arxiv.org/pdf/2005.11184)
 
 ## Text Normalization
 - A Hybrid Text Normalization System Using Multi-Head Self-Attention For Mandarin, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04128.pdf)
