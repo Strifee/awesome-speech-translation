@@ -43,8 +43,6 @@ This is a paper list for speech translation.
 - Diversity by Phonetics and its Application in Neural Machine Translation, AAAI-2020, [[paper]](https://arxiv.org/pdf/1911.04292.pdf)
 - Robust Neural Machine Translation for Clean and Noisy Speech Transcripts, IWSLT-2019, [[paper]](https://zenodo.org/record/3524947#.XfiAu5MzbGJ)
 
-
-
 ## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
 - Towards speech-to-text translation without speech recognition, EACL-2017, [[paper]](https://www.aclweb.org/anthology/E17-2076)
@@ -96,6 +94,10 @@ This is a paper list for speech translation.
 - ON-TRAC Consortium for End-to-End and Simultaneous SpeechTranslation Challenge Tasks at IWSLT 2020, IWSLT-2020, [[paper]](https://arxiv.org/pdf/2005.11861)
 - Phone Features Improve Speech Translation, ACL-2020, [[paper]](https://arxiv.org/pdf/2005.13681)
 - Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2005.11185)
+- End-to-End Speech-Translation with Knowledge Distillation: FBK@IWSLT2020, IWSLT2020, [[paper]](https://arxiv.org/pdf/2006.02965)
+- Self-Training for End-to-End Speech Translation, INTERSPEECH2020 (submitted), [[paper]](https://arxiv.org/pdf/2006.02490)
+- CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning, INTERSPEECH2020 (submitted), [[paper]](https://arxiv.org/pdf/2006.02814)
+- Is 42 the Answer to Everything in Subtitling-oriented Speech Translation?, IWSLT2020, [[paper]](https://arxiv.org/pdf/2006.01080)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -132,6 +134,7 @@ This is a paper list for speech translation.
 - Re-translation versus Streaming for Simultaneous Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.03643)
 - Efficient Wait-k Models for Simultaneous Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/abs/2005.08595)
 - Opportunistic Decoding with Timely Correction for Simultaneous Translation, ACL-2020, [[paper]](https://arxiv.org/pdf/2005.00675)
+- Neural Simultaneous Speech Translation Using Alignment-Based Chunking, IWSLT2020, [[paper]](https://arxiv.org/pdf/2005.14489)
 
 # Related Works
 ## Spoken Language Understanding
