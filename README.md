@@ -135,6 +135,7 @@ This is a paper list for speech translation.
 - Efficient Wait-k Models for Simultaneous Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/abs/2005.08595)
 - Opportunistic Decoding with Timely Correction for Simultaneous Translation, ACL-2020, [[paper]](https://arxiv.org/pdf/2005.00675)
 - Neural Simultaneous Speech Translation Using Alignment-Based Chunking, IWSLT2020, [[paper]](https://arxiv.org/pdf/2005.14489)
+- Dynamic Masking for Improved Stability in Spoken Language Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2006.00249)
 
 # Related Works
 ## Spoken Language Understanding
