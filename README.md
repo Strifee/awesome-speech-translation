@@ -42,6 +42,7 @@ This is a paper list for speech translation.
 - Machine Translation in Pronunciation Space, Arxiv-2020, [[paper]](https://arxiv.org/pdf/1911.00932.pdf)
 - Diversity by Phonetics and its Application in Neural Machine Translation, AAAI-2020, [[paper]](https://arxiv.org/pdf/1911.04292.pdf)
 - Robust Neural Machine Translation for Clean and Noisy Speech Transcripts, IWSLT-2019, [[paper]](https://zenodo.org/record/3524947#.XfiAu5MzbGJ)
+- ELITR Non-Native Speech Translation at IWSLT 2020, IWSLT-2020, [[paper]](https://arxiv.org/pdf/2006.03331)
 
 ## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
