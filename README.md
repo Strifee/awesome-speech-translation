@@ -23,7 +23,7 @@ This is a paper list for speech translation.
 - How2: A Large-scale Dataset for Multimodal Language Understanding, NIPS-2018, [[paper]](https://arxiv.org/pdf/1811.00347.pdf)
 - LibriVoxDeEn: A Corpus for German-to-English Speech Translation and Speech Recognition, LREC-2020, [[paper]](https://arxiv.org/pdf/1910.07924.pdf)
 - Clotho: An Audio Captioning Dataset, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.09387.pdf)
-- Europarl-St: A Multilingual Corpus For Speech Translation Of Parliamentary Debates, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03167.pdf)
+- Europarl-St: A Multilingual Corpus For Speech Translation Of Parliamentary Debates, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.03167.pdf)
 - CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.01320)
 - MuST-Cinema: a Speech-to-Subtitles corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.10829)
 
@@ -76,11 +76,11 @@ This is a paper list for speech translation.
 - Simuls2s: End-to-end Simultaneous Speech To Speech Translation, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=Ske_56EYvS)
 - Speech-To-Speech Translation Between Untranscribed Unknown Languages, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00795.pdf)
 - A comparative study on end-to-end speech to text translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1911.08870.pdf)
-- Instance-Based Model Adaptation For Direct Speech Translation, ICASSP-2020 Submitted, [[paper]](https://arxiv.org/pdf/1910.10663.pdf)
-- Analyzing Asr Pretraining For Low-Resource Speech-To-Text Translation, ICASSP-2020 Submitted, [[paper]](https://arxiv.org/pdf/1910.10762.pdf)
+- Instance-Based Model Adaptation For Direct Speech Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10663.pdf)
+- Analyzing Asr Pretraining For Low-Resource Speech-To-Text Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.10762.pdf)
 - ON-TRAC Consortium End-to-End Speech Translation Systems for the IWSLT 2019 Shared Task, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1910.13689.pdf)
 - Harnessing Indirect Training Data for End-to-End Automatic Speech Translation: Tricks of the Trade, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1909.06515v2.pdf)
-- Data Efficient Direct Speech-to-Text Translation with Modality Agnostic Meta-Learning, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.04283.pdf)
+- Data Efficient Direct Speech-to-Text Translation with Modality Agnostic Meta-Learning, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04283.pdf)
 - Enhancing Transformer for End-to-end Speech-to-Text Translation, EAMT-2019, [[paper]](https://www.aclweb.org/anthology/W19-6603.pdf)
 - On Using SpecAugment for End-to-End Speech Translation, IWSLT-2019, [[paper]](https://arxiv.org/pdf/1911.08876.pdf)
 - Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding, AAAI-2020, [[paper]](https://arxiv.org/abs/1912.07240)
@@ -99,6 +99,8 @@ This is a paper list for speech translation.
 - Self-Training for End-to-End Speech Translation, INTERSPEECH2020 (submitted), [[paper]](https://arxiv.org/pdf/2006.02490)
 - CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning, INTERSPEECH2020 (submitted), [[paper]](https://arxiv.org/pdf/2006.02814)
 - Is 42 the Answer to Everything in Subtitling-oriented Speech Translation?, IWSLT2020, [[paper]](https://arxiv.org/pdf/2006.01080)
+- End-To-End Speech Translation With Self-Contained Vocabulary Manipulation, ICASSP2020
+- End-to-End Speech Translation With Transcoding by Multi-Task Learning for Distant Language Pairs, TASLP-2020, [[paper]](https://ahcweb01.naist.jp/papers/journal/2020/202005_IEEE_TASLP_takatomo-k/202005_IEEE_TASLP_takatomo-k.paper.pdf)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -130,7 +132,7 @@ This is a paper list for speech translation.
 - Monotonic Multihead Attention, ICLR-2020(under review), [[paper]](https://openreview.net/pdf?id=Hyg96gBKPS)
 - How To Do Simultaneous Translation Better With Consecutive Neural Machine Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.03154.pdf)
 - Simultaneous Neural Machine Translation using Connectionist Temporal Classification, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1911.11933.pdf)
-- Re-Translation Strategies For Long Form, Simultaneous, Spoken Language Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1912.03393.pdf) 
+- Re-Translation Strategies For Long Form, Simultaneous, Spoken Language Translation, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1912.03393.pdf) 
 - Learning Coupled Policies for Simultaneous Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.04306)
 - Re-translation versus Streaming for Simultaneous Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.03643)
 - Efficient Wait-k Models for Simultaneous Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/abs/2005.08595)
