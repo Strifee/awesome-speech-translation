@@ -101,6 +101,9 @@ This is a paper list for speech translation.
 - Is 42 the Answer to Everything in Subtitling-oriented Speech Translation?, IWSLT2020, [[paper]](https://arxiv.org/pdf/2006.01080)
 - End-To-End Speech Translation With Self-Contained Vocabulary Manipulation, ICASSP2020
 - End-to-End Speech Translation With Transcoding by Multi-Task Learning for Distant Language Pairs, TASLP-2020, [[paper]](https://ahcweb01.naist.jp/papers/journal/2020/202005_IEEE_TASLP_takatomo-k/202005_IEEE_TASLP_takatomo-k.paper.pdf)
+- UWSpeech: Speech to Speech Translation for Unwritten Languages, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2006.07926)
+- Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus, ACL-2020, [[paper]](https://arxiv.org/pdf/2006.05754)
+- Improving Cross-Lingual Transfer Learning for End-to-End SpeechRecognition with Speech Translation, INTERSPEECH2020 (submitted), [[paper]](https://arxiv.org/pdf/2006.05474)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
