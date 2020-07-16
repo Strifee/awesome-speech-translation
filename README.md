@@ -144,6 +144,7 @@ This is a paper list for speech translation.
 - Opportunistic Decoding with Timely Correction for Simultaneous Translation, ACL-2020, [[paper]](https://arxiv.org/pdf/2005.00675)
 - Neural Simultaneous Speech Translation Using Alignment-Based Chunking, IWSLT2020, [[paper]](https://arxiv.org/pdf/2005.14489)
 - Dynamic Masking for Improved Stability in Spoken Language Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2006.00249)
+- Learn to Use Future Informationin Simultaneous Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2007.05290)
 
 # Related Works
 ## Spoken Language Understanding
