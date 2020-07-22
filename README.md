@@ -26,6 +26,7 @@ This is a paper list for speech translation.
 - Europarl-St: A Multilingual Corpus For Speech Translation Of Parliamentary Debates, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.03167.pdf)
 - CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.01320)
 - MuST-Cinema: a Speech-to-Subtitles corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.10829)
+- CoVoST 2: A Massively Multilingual Speech-to-Text Translation Corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2007.10310)
 
 ## Pipeline ST
 - Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
