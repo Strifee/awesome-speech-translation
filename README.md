@@ -107,6 +107,7 @@ This is a paper list for speech translation.
 - Improving Cross-Lingual Transfer Learning for End-to-End SpeechRecognition with Speech Translation, INTERSPEECH2020 (submitted), [[paper]](https://arxiv.org/pdf/2006.05474)
 - Self-Supervised Representations Improve End-to-End Speech Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2006.12124)
 - SimulSpeech: End-to-End Simultaneous Speech to Text Translation, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.350.pdf)
+- Consistent Transcription and Translation of Speech, TACL-2020, [[paper]](https://arxiv.org/pdf/2007.12741)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
