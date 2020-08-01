@@ -164,6 +164,7 @@ This is a paper list for speech translation.
 - A Data Efficient End-To-End Spoken Language Understanding Architecture, ICASSP-2020, [[paper]](https://arxiv.org/pdf/2002.05955)
 - End-to-end speech-to-dialog-act recognition, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.11419)
 - Pretrained Semantic Speech Embeddings for End-to-End Spoken LanguageUnderstanding via Cross-Modal Teacher-Student Learning, Interspeech-2020, [[paper]](https://arxiv.org/pdf/2007.01836)
+- Speech to Text Adaptation: Towards an Efficient Cross-Modal Distillation, Arxiv-2020, [[paper]](https://arxiv.org/abs/2005.08213)
 
 ## Named Entity Recognition
 - End-to-end Named Entity Recognition from English Speech, INTERSPEECH2020(submitted), [[paper]](https://arxiv.org/pdf/2005.11184)
