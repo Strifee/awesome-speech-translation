@@ -108,6 +108,7 @@ This is a paper list for speech translation.
 - Self-Supervised Representations Improve End-to-End Speech Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2006.12124)
 - SimulSpeech: End-to-End Simultaneous Speech to Text Translation, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.350.pdf)
 - Consistent Transcription and Translation of Speech, TACL-2020, [[paper]](https://arxiv.org/pdf/2007.12741)
+- Contextualized Translation of Automatically Segmented Speech, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.02270)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -163,8 +164,12 @@ This is a paper list for speech translation.
 - Modeling Inter-Speaker Relationship In Xlnet For Contextual Spoken Language Understanding, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.12531.pdf)
 - A Data Efficient End-To-End Spoken Language Understanding Architecture, ICASSP-2020, [[paper]](https://arxiv.org/pdf/2002.05955)
 - End-to-end speech-to-dialog-act recognition, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.11419)
-- Pretrained Semantic Speech Embeddings for End-to-End Spoken LanguageUnderstanding via Cross-Modal Teacher-Student Learning, Interspeech-2020, [[paper]](https://arxiv.org/pdf/2007.01836)
+- Pretrained Semantic Speech Embeddings for End-to-End Spoken Language Understanding via Cross-Modal Teacher-Student Learning, Interspeech-2020, [[paper]](https://arxiv.org/pdf/2007.01836)
 - Speech to Text Adaptation: Towards an Efficient Cross-Modal Distillation, Arxiv-2020, [[paper]](https://arxiv.org/abs/2005.08213)
+- Semantic Complexity in End-to-End Spoken Language Understanding, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.02858)
+- Speech To Semantics: Improve ASR and NLU Jointly via All-Neural Interfaces, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.06173)
+- Deep F-measure Maximization for End-to-End Speech Understanding, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.03425)
+- Large-scale Transfer Learning for Low-resource Spoken Language Understanding, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.05671)
 
 ## Named Entity Recognition
 - End-to-end Named Entity Recognition from English Speech, INTERSPEECH2020(submitted), [[paper]](https://arxiv.org/pdf/2005.11184)
@@ -184,6 +189,7 @@ This is a paper list for speech translation.
 ## Punctuation Prediction
 - Controllable Time-Delay Transformer for Real-Time Punctuation Prediction and Disfluency Detection, ICASSP-2020，[[paper]](https://arxiv.org/pdf/2003.01309)
 - Punctuation Prediction in Spontaneous Conversations: Can We Mitigate ASR Errors with Retrofitted Word Embeddings, INTERSPEECH-2020 (submitted), [[paper]](https://arxiv.org/pdf/2004.05985)
+- Multimodal Semi-supervised Learning Framework for Punctuation Prediction in Conversational Speech, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.00702)
 
 # Workshop
 - IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
