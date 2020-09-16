@@ -110,6 +110,7 @@ This is a paper list for speech translation.
 - Consistent Transcription and Translation of Speech, TACL-2020, [[paper]](https://arxiv.org/pdf/2007.12741)
 - Contextualized Translation of Automatically Segmented Speech, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.02270)
 - On Target Segmentation for Direct Speech Translation, AMTA-2020, [[paper]](https://arxiv.org/pdf/2009.04707.pdf)
+- End-to-End Speech Translation with Adversarial Training, WAST-2020, [[paper]](https://www.aclweb.org/anthology/2020.autosimtrans-1.2.pdf)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -194,10 +195,10 @@ This is a paper list for speech translation.
 - Multimodal Semi-supervised Learning Framework for Punctuation Prediction in Conversational Speech, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.00702)
 
 # Workshop
-- IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php)
-- IWSLT 2019, [[link]](http://workshop2019.iwslt.org/)
-- IWSLT 2020, [[link]](http://iwslt.org/doku.php?id=start)
-- AutoSimTrans 2020, [[link]](https://autosimtrans.github.io/)
+- IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php), [[paper]](https://workshop2018.iwslt.org/downloads/Proceedings_IWSLT_2018.pdf)
+- IWSLT 2019, [[link]](http://workshop2019.iwslt.org/), [[paper]](https://zenodo.org/communities/iwslt2019/search?page=1&size=20)
+- IWSLT 2020, [[link]](http://iwslt.org/doku.php?id=start), [[paper]](https://www.aclweb.org/anthology/2020.iwslt-1.1.pdf)
+- AutoSimTrans 2020, [[link]](https://autosimtrans.github.io/), [[paper]](https://www.aclweb.org/anthology/2020.autosimtrans-1.pdf)
 
 
 # Copyright 
