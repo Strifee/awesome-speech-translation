@@ -111,6 +111,8 @@ This is a paper list for speech translation.
 - Contextualized Translation of Automatically Segmented Speech, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.02270)
 - On Target Segmentation for Direct Speech Translation, AMTA-2020, [[paper]](https://arxiv.org/pdf/2009.04707.pdf)
 - End-to-End Speech Translation with Adversarial Training, WAST-2020, [[paper]](https://www.aclweb.org/anthology/2020.autosimtrans-1.2.pdf)
+- SDST: Successive Decoding for Speech-to-text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2009.09737)
+- TED: Triple Supervision Decouples End-to-end Speech-to-text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2009.09704)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -150,6 +152,7 @@ This is a paper list for speech translation.
 - Neural Simultaneous Speech Translation Using Alignment-Based Chunking, IWSLT2020, [[paper]](https://arxiv.org/pdf/2005.14489)
 - Dynamic Masking for Improved Stability in Spoken Language Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2006.00249)
 - Learn to Use Future Informationin Simultaneous Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2007.05290)
+- Presenting Simultaneous Translation in Limited Space, ITAT WAFNL 2020, [[paper]](https://arxiv.org/pdf/2009.09016)
 
 # Related Works
 ## Spoken Language Understanding
