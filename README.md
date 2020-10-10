@@ -113,6 +113,7 @@ This is a paper list for speech translation.
 - End-to-End Speech Translation with Adversarial Training, WAST-2020, [[paper]](https://www.aclweb.org/anthology/2020.autosimtrans-1.2.pdf)
 - SDST: Successive Decoding for Speech-to-text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2009.09737)
 - TED: Triple Supervision Decouples End-to-end Speech-to-text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2009.09704)
+- Investigating Self-supervised Pre-training for End-to-end Speech Translation, ICML workshop, [[paper]](https://openreview.net/pdf?id=SR2L__h9q9p), [[code]](https://github.com/mhn226/espnet)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -176,6 +177,11 @@ This is a paper list for speech translation.
 - Deep F-measure Maximization for End-to-End Speech Understanding, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.03425)
 - Large-scale Transfer Learning for Low-resource Spoken Language Understanding, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.05671)
 - End-to-End Neural Transformer Based Spoken Language Understanding, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.10984)
+- End-to-End Spoken Language Understanding Without Full Transcripts, INTERSPEECH-2020, [[paper]](https://arxiv.org/abs/2009.14386)
+- Semi-Supervised Speech-Language Joint Pretraining For Spoken Language Understanding, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.02295.pdf)
+
+## Automated audio captioning (AAC)
+- Effects Of Word-Frequency Based Pre- Annd Post- Processings For Audio Captioning, DCASE-2020, [[paper]](https://arxiv.org/pdf/2009.11436.pdf)
 
 ## Named Entity Recognition
 - End-to-end Named Entity Recognition from English Speech, INTERSPEECH2020(submitted), [[paper]](https://arxiv.org/pdf/2005.11184)
@@ -202,6 +208,7 @@ This is a paper list for speech translation.
 - IWSLT 2019, [[link]](http://workshop2019.iwslt.org/), [[paper]](https://zenodo.org/communities/iwslt2019/search?page=1&size=20)
 - IWSLT 2020, [[link]](http://iwslt.org/doku.php?id=start), [[paper]](https://www.aclweb.org/anthology/2020.iwslt-1.1.pdf)
 - AutoSimTrans 2020, [[link]](https://autosimtrans.github.io/), [[paper]](https://www.aclweb.org/anthology/2020.autosimtrans-1.pdf)
+- Self-supervision in Audio and Speech, ICML 2020, [[link]](https://icml.cc/virtual/2020/workshop/5732)
 
 
 # Copyright 
