@@ -121,8 +121,11 @@ This is a paper list for speech translation.
 - Investigating Self-supervised Pre-training for End-to-end Speech Translation, ICML-2020 workshop, [[paper]](https://openreview.net/pdf?id=SR2L__h9q9p), [[code]](https://github.com/mhn226/espnet)
 - FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ, AACL-2020 demo, [[paper]](https://arxiv.org/pdf/2010.05171.pdf)
 - Adaptive Feature Selection for End-to-End Speech Translation, EMNLP2020 Findings, [[paper]](https://arxiv.org/pdf/2010.08518.pdf), [[code]](https://github.com/bzhangGo/zero)
-- A General Multi-Task Learning Framework To Leverage Text Data For Speech To Text Tasks, [[paper]](https://arxiv.org/pdf/2010.11338.pdf)
-- MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation, [[paper]](https://arxiv.org/pdf/2010.11445.pdf)
+- A General Multi-Task Learning Framework To Leverage Text Data For Speech To Text Tasks, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11338.pdf)
+- MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11445.pdf)
+- Evaluating Gender Bias In Speech Translation, ICASSP-2021 (submitted), [[paper]](https://arxiv.org/pdf/2010.14465.pdf)
+- Cross-Modal Transfer Learning For Multilingual Speech-To-Text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.12829.pdf)
+- Bridging the Modality Gap for Speech-to-Text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.14920.pdf)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -195,6 +198,10 @@ This is a paper list for speech translation.
 - Speech Model Pre-training for End-to-End Spoken Language Understandin, INTERSPEECH-2019, [[paper]](https://arxiv.org/abs/1904.03670), [[code]](https://github.com/lorenlugosch/end-to-end-SLU)
 - Using Speech Synthesis To Train End-To-End Spoken Language Understanding Models, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1910.09463.pdf), [[code]](https://github.com/lorenlugosch/end-to-end-SLU)
 - Leveraging Unpaired Text Data For Training End-To-End Speech-To-Intent Systems, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2010.04284.pdf)
+- St-Bert: Cross-Modal Language Model Pre-Training For End-To-End Spoken Language Understanding, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.12283.pdf)
+- Semi-Supervised Spoken Language Understanding Via Self-Supervised Speech And Language Model Pretraining, ICASSP-2021(submitted), [[paper]](https://arxiv.org/pdf/2010.13826.pdf), [[code]](https://github.com/jefflai108/Semi-Supervsied-Spoken-Language-Understanding-PyTorch)
+- Two-Stage Textual Knowledge Distillation To Speech Encoder For Spoken Language Understanding, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.13105.pdf)
+- Orthros: Non-Autoregressive End-To-End Speech Translation With Dual-Decoder, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.13047.pdf)
 
 ## Automated audio captioning (AAC)
 - Effects Of Word-Frequency Based Pre- Annd Post- Processings For Audio Captioning, DCASE-2020, [[paper]](https://arxiv.org/pdf/2009.11436.pdf)
@@ -212,6 +219,7 @@ This is a paper list for speech translation.
 - Giving Attention to the Unexpected:Using Prosody Innovations in Disfluency Detection, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1904.04388)
 - Multi-Task Self-Supervised Learning for Disfluency Detection, AAAI-2020, [[paper]](https://arxiv.org/abs/1908.05378)
 - Improving Disfluency Detection by Self-Training a Self-Attentive Model, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.05323)
+- Combining Self-Training and Self-Supervised Learning for Unsupervised Disfluency Detection, EMNLP-2020, [[paper]](https://arxiv.org/pdf/2010.15360.pdf), [[code]](https://github.com/scir-zywang/self-training-self-supervised-disfluency/)
 
 
 ## Punctuation Prediction
