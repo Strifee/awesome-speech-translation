@@ -126,6 +126,9 @@ This is a paper list for speech translation.
 - Evaluating Gender Bias In Speech Translation, ICASSP-2021 (submitted), [[paper]](https://arxiv.org/pdf/2010.14465.pdf)
 - Cross-Modal Transfer Learning For Multilingual Speech-To-Text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.12829.pdf)
 - Bridging the Modality Gap for Speech-to-Text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.14920.pdf)
+- Streaming Simultaneous Speech Translation With Augmented Memory Transformer, ICASSP-2021(submitted), [[paper]](https://arxiv.org/pdf/2011.00033.pdf)
+- Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation, COLING-2020, [[paper]](https://arxiv.org/abs/2011.00747), [[code]](https://github.com/formiel/speech-translation)
+- SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2011.02048.pdf)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
