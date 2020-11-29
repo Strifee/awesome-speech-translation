@@ -133,6 +133,7 @@ This is a paper list for speech translation.
 - Simultaneous Speech-To-Speech Translation System With Neural Incremental Asr, Mt, And Tts, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2011.04845.pdf)
 - Orthros: Non-Autoregressive End-To-End Speech Translation With Dual-Decoder, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.13047.pdf)
 - Effectively pretraining a speech translation decoder with Machine Translation data, EMNLP-2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.644.pdf)
+- Tight Integrated End-to-End Training for Cascaded Speech Translation, SLT-2021, [[paper]](https://arxiv.org/pdf/2011.12167)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
