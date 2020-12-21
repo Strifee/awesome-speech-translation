@@ -9,7 +9,6 @@ This is a paper list for speech translation.
 - ESPnet-ST: All-in-One Speech Translation Toolkit, ACL-2020 Demo, [[paper]](https://arxiv.org/pdf/2004.10234), [[code]](https://github.com/espnet/espnet)
 - FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ, AACL-2020 demo, [[paper]](https://arxiv.org/pdf/2010.05171.pdf), [[code]](https://github.com/pytorch/fairseq)
 - NeurST: Neural Speech Translation Toolkit, Arxiv-2020, [[paper]](https://arxiv.org/abs/2012.10018), [[code]](https://github.com/bytedance/neurst)
--
 
 ## Dataset
 - Construction and Utilization of Bilingual Speech Corpus for Simultaneous Machine Interpretation Research, InterSpeech-2005,[[paper]](https://www.isca-speech.org/archive/archive_papers/interspeech_2005/i05_1585.pdf)
