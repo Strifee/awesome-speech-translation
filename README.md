@@ -5,6 +5,12 @@ This is a paper list for speech translation.
 
 # Paper List
 
+## Codebase
+- ESPnet-ST: All-in-One Speech Translation Toolkit, ACL-2020 Demo, [[paper]](https://arxiv.org/pdf/2004.10234), [[code]](https://github.com/espnet/espnet)
+- FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ, AACL-2020 demo, [[paper]](https://arxiv.org/pdf/2010.05171.pdf), [[code]](https://github.com/pytorch/fairseq)
+- NeurST: Neural Speech Translation Toolkit, Arxiv-2020, [[paper]](https://arxiv.org/abs/2012.10018), [[code]](https://github.com/bytedance/neurst)
+-
+
 ## Dataset
 - Construction and Utilization of Bilingual Speech Corpus for Simultaneous Machine Interpretation Research, InterSpeech-2005,[[paper]](https://www.isca-speech.org/archive/archive_papers/interspeech_2005/i05_1585.pdf)
 - Approach to Corpus-based Interpreting Studies: Developing EPIC (European Parliament Interpreting Corpus), MuTra-2005, [[paper]](http://www.euroconferences.info/proceedings/2005_Proceedings/2005_Bendazzoli_Sandrelli.pdf)
@@ -96,7 +102,6 @@ This is a paper list for speech translation.
 - Speech Translation and the End-to-End Promise:Taking Stock of Where We Are, ACL-2020 theme track, [[paper]](https://arxiv.org/pdf/2004.06358) 
 - Curriculum Pre-training for End-to-End Speech Translation, ACL-2020, [[paper]](https://arxiv.org/pdf/2004.10093)
 - Jointly Trained Transformers models for Spoken Language Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.12111)
-- ESPnet-ST: All-in-One Speech Translation Toolkit, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.10234)
 - Relative Positional Encoding for Speech Recognition and Direct Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2005.09940)
 - Worse WER, but Better BLEU? Leveraging Word Embedding asIntermediate in Multitask End-to-End Speech Translation, ACL-2020, [[paper]](https://arxiv.org/abs/2005.10678)
 - ON-TRAC Consortium for End-to-End and Simultaneous SpeechTranslation Challenge Tasks at IWSLT 2020, IWSLT-2020, [[paper]](https://arxiv.org/pdf/2005.11861)
@@ -110,7 +115,7 @@ This is a paper list for speech translation.
 - End-to-End Speech Translation With Transcoding by Multi-Task Learning for Distant Language Pairs, TASLP-2020, [[paper]](https://ahcweb01.naist.jp/papers/journal/2020/202005_IEEE_TASLP_takatomo-k/202005_IEEE_TASLP_takatomo-k.paper.pdf)
 - UWSpeech: Speech to Speech Translation for Unwritten Languages, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2006.07926)
 - Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus, ACL-2020, [[paper]](https://arxiv.org/pdf/2006.05754)
-- Improving Cross-Lingual Transfer Learning for End-to-End SpeechRecognition with Speech Translation, INTERSPEECH2020 (submitted), [[paper]](https://arxiv.org/pdf/2006.05474)
+- Improving Cross-Lingual Transfer Learning for End-to-End Speech Recognition with Speech Translation, INTERSPEECH2020 (submitted), [[paper]](https://arxiv.org/pdf/2006.05474)
 - Self-Supervised Representations Improve End-to-End Speech Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2006.12124)
 - SimulSpeech: End-to-End Simultaneous Speech to Text Translation, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.350.pdf)
 - Consistent Transcription and Translation of Speech, TACL-2020, [[paper]](https://arxiv.org/pdf/2007.12741)
@@ -120,7 +125,6 @@ This is a paper list for speech translation.
 - SDST: Successive Decoding for Speech-to-text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2009.09737)
 - TED: Triple Supervision Decouples End-to-end Speech-to-text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2009.09704)
 - Investigating Self-supervised Pre-training for End-to-end Speech Translation, ICML-2020 workshop, [[paper]](https://openreview.net/pdf?id=SR2L__h9q9p), [[code]](https://github.com/mhn226/espnet)
-- FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ, AACL-2020 demo, [[paper]](https://arxiv.org/pdf/2010.05171.pdf)
 - Adaptive Feature Selection for End-to-End Speech Translation, EMNLP2020 Findings, [[paper]](https://arxiv.org/pdf/2010.08518.pdf), [[code]](https://github.com/bzhangGo/zero)
 - A General Multi-Task Learning Framework To Leverage Text Data For Speech To Text Tasks, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11338.pdf)
 - MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11445.pdf)
@@ -134,6 +138,8 @@ This is a paper list for speech translation.
 - Orthros: Non-Autoregressive End-To-End Speech Translation With Dual-Decoder, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.13047.pdf)
 - Effectively pretraining a speech translation decoder with Machine Translation data, EMNLP-2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.644.pdf)
 - Tight Integrated End-to-End Training for Cascaded Speech Translation, SLT-2021, [[paper]](https://arxiv.org/pdf/2011.12167)
+- Breeding Gender-aware Direct Speech Translation Systems, COLING-2020, [[paper]](https://arxiv.org/pdf/2012.04955.pdf)
+- On Knowledge Distillation for Direct Speech Translation, CLiC-IT-2020, [[paper]](https://arxiv.org/pdf/2012.04964.pdf)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
