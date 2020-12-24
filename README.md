@@ -184,7 +184,8 @@ This is a paper list for speech translation.
 - Learn to Use Future Informationin Simultaneous Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2007.05290)
 - Presenting Simultaneous Translation in Limited Space, ITAT WAFNL 2020, [[paper]](https://arxiv.org/pdf/2009.09016)
 - Fluent and Low-latency Simultaneous Speech-to-Speech Translation with Self-adaptive Training, EMNLP2020 Findings, [[paper]](https://arxiv.org/pdf/2010.10048.pdf)
-- Improving Simultaneous Translation with Pseudo References, [[paper]](https://arxiv.org/pdf/2010.11247.pdf)
+- Improving Simultaneous Translation with Pseudo References, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11247.pdf)
+- Future-Guided Incremental Transformer for Simultaneous Translation, AAAI-2021, [[paper]](https://arxiv.org/pdf/2012.12465.pdf)
 
 
 # Related Works
