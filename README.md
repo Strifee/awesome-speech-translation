@@ -32,6 +32,7 @@ This is a paper list for speech translation.
 - CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.01320)
 - MuST-Cinema: a Speech-to-Subtitles corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.10829)
 - CoVoST 2: A Massively Multilingual Speech-to-Text Translation Corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2007.10310), [[code]](https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text)
+- The Multilingual TEDx Corpus for Speech Recognition and Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2102.01757.pdf)
 
 ## Pipeline ST
 - Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
@@ -139,6 +140,10 @@ This is a paper list for speech translation.
 - Tight Integrated End-to-End Training for Cascaded Speech Translation, SLT-2021, [[paper]](https://arxiv.org/pdf/2011.12167)
 - Breeding Gender-aware Direct Speech Translation Systems, COLING-2020, [[paper]](https://arxiv.org/pdf/2012.04955.pdf)
 - On Knowledge Distillation for Direct Speech Translation, CLiC-IT-2020, [[paper]](https://arxiv.org/pdf/2012.04964.pdf)
+- Streaming Models for Joint Speech Recognition and Translation, EACL-2021, [[paper]](https://arxiv.org/pdf/2101.09149)
+- CTC-based Compression for Direct Speech Translation, EACL-2021, [[paper]](https://arxiv.org/pdf/2102.01578)
+- Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2102.05766.pdf)
+- Transformer-Based Direct Speech-To-Speech Translation With Transcoder, SLT-2021, [[paper]](https://ahcweb01.naist.jp/papers/conference/2021/202101_SLT_takatomo-k/202101_SLT_takatomo-k.paper.pdf)
 
 ## Multilingual ST
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
@@ -186,6 +191,7 @@ This is a paper list for speech translation.
 - Fluent and Low-latency Simultaneous Speech-to-Speech Translation with Self-adaptive Training, EMNLP2020 Findings, [[paper]](https://arxiv.org/pdf/2010.10048.pdf)
 - Improving Simultaneous Translation with Pseudo References, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11247.pdf)
 - Future-Guided Incremental Transformer for Simultaneous Translation, AAAI-2021, [[paper]](https://arxiv.org/pdf/2012.12465.pdf)
+- Faster Re-translation Using Non-Autoregressive Model For Simultaneous Neural Machine Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2012.14681)
 
 
 # Related Works
@@ -220,6 +226,9 @@ This is a paper list for speech translation.
 - IWSLT 2020, [[link]](http://iwslt.org/doku.php?id=start), [[paper]](https://www.aclweb.org/anthology/2020.iwslt-1.1.pdf)
 - AutoSimTrans 2020, [[link]](https://autosimtrans.github.io/), [[paper]](https://www.aclweb.org/anthology/2020.autosimtrans-1.pdf)
 - Self-supervision in Audio and Speech, ICML 2020, [[link]](https://icml.cc/virtual/2020/workshop/5732)
+- IWSLT 2021, [[link]](https://iwslt.org/2021/)
+- AutoSimTrans 2021, [[link]](https://autosimtrans.github.io/)
+- NAACL同传Workshop：千言 - 机器同传, [[link]](https://aistudio.baidu.com/aistudio/competition/detail/62)
 
 
 # Copyright 
