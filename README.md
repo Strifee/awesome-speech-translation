@@ -61,6 +61,7 @@ This is a paper list for speech translation.
 - The Multilingual TEDx Corpus for Speech Recognition and Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2102.01757.pdf)
 - mintzai-ST: Corpus and Baselines for Basque-Spanish Speech Translation，IberSPEECH-2021，[[paper]](https://www.isca-speech.org/archive/IberSPEECH_2021/pdfs/41.pdf)
 - BSTC: A Large-Scale Chinese-English Speech Translation Dataset, Arixv-2021, [[paper]](https://arxiv.org/abs/2104.03575)
+- MultiSubs: A Large-scale Multimodal and Multilingual Dataset, Arxiv-2021, [[paper]](https://arxiv.org/abs/2103.01910)
 
 <h2 id="pipeline_st">Pipeline ST</h2>
 
@@ -163,7 +164,7 @@ This is a paper list for speech translation.
 - On Knowledge Distillation for Direct Speech Translation, CLiC-IT-2020, [[paper]](https://arxiv.org/pdf/2012.04964.pdf)
 - Streaming Models for Joint Speech Recognition and Translation, EACL-2021, [[paper]](https://arxiv.org/pdf/2101.09149)
 - CTC-based Compression for Direct Speech Translation, EACL-2021, [[paper]](https://arxiv.org/pdf/2102.01578)
-- Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2102.05766.pdf)
+- Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation, ICML-2021, [[paper]](https://arxiv.org/pdf/2102.05766.pdf)
 - Transformer-Based Direct Speech-To-Speech Translation With Transcoder, SLT-2021, [[paper]](https://ahcweb01.naist.jp/papers/conference/2021/202101_SLT_takatomo-k/202101_SLT_takatomo-k.paper.pdf)
 - Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation, NAACL-2021, [[paper]](https://arxiv.org/pdf/2104.06457.pdf)
 - Large-Scale Self- and Semi-Supervised Learning for Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2104.06678.pdf)
@@ -198,6 +199,8 @@ This is a paper list for speech translation.
 - Exploiting Multimodal Reinforcement Learning for Simultaneous Machine Translation，EACL-2021,[[paper]](https://arxiv.org/pdf/2102.11387.pdf)
 - Cross-lingual Visual Pre-training for Multimodal Machine Translation, EACL-2021, [[paper]](https://arxiv.org/abs/2101.10044)
 - Generative Imagination Elevates Machine Translation, NAACL-2021, [[https://arxiv.org/abs/2009.09654]]
+- Efficient Object-Level Visual Context Modeling for Multimodal Machine Translation: Masking Irrelevant Objects Helps Grounding, AAAI-2021, [[paper]](https://arxiv.org/pdf/2101.05208)
+- Improving Translation Robustness with Visual Cues and Error Correction, Arxiv-2021, [[paper]](https://arxiv.org/abs/2103.07352)
 
 <h2 id="streaming_mt">Streaming MT</h2>
 
@@ -276,7 +279,7 @@ This is a paper list for speech translation.
 - IWSLT 2020, [[link]](http://iwslt.org/doku.php?id=start), [[paper]](https://www.aclweb.org/anthology/2020.iwslt-1.1.pdf)
 - AutoSimTrans 2020, [[link]](https://autosimtrans.github.io/), [[paper]](https://www.aclweb.org/anthology/2020.autosimtrans-1.pdf)
 - Self-supervision in Audio and Speech, ICML 2020, [[link]](https://icml.cc/virtual/2020/workshop/5732)
-- IWSLT 2021, [[link]](https://iwslt.org/2021/)
+- IWSLT 2021, [[link]](https://iwslt.org/2021/), [[paper]](https://aclanthology.org/2021.iwslt-1.1.pdf)
 - AutoSimTrans 2021, [[link]](https://autosimtrans.github.io/)
 - NAACL同传Workshop：千言 - 机器同传, [[link]](https://aistudio.baidu.com/aistudio/competition/detail/62)
 
