@@ -3,18 +3,40 @@ This is a paper list for speech translation.
 
 **Keyword:** *Speech Translation, Spoken Language Processing, Natural Language Processing*
 
-# Paper List
+* [Paper List](#paper_list)
+    * [Survey](#survey)
+    * [Codebase](#codebase)
+    * [Dataset](#dataset)
+    * [Pipeline ST](#pipeline_st)
+    * [End-to-end ST](#end_to_end_st)
+    * [End-to-end Streaming ST](#end_to_end_streaming_st)
+    * [End-to-end NA ST](#end_to_end_na_st)
+    * [Multilingual ST](#multilingual_st)
+    * [Multimodal MT](#multimodal_mt)
+    * [Streaming MT](#streaming_mt)
+* [Related Works](#related_works)
+    * [Automated Audio Captioning](#automated_audio_captioning)
+    * [Named Entity Recognition](#named_entity_recognition)
+    * [Text Normalization](#text_normalization)
+    * [Disfluency Detection](#disfluency_detection)
+    * [Punctuation Prediction](#punctuation_prediction)
+* [Workshop](#workshop)
 
-## Survey
+<h1 id="paper_list">Paper List</h1>
+
+<h2 id="survey">Survey</h2>
+
 - Speech Translation and the End-to-End Promise:Taking Stock of Where We Are, ACL-2020 theme track, [[paper]](https://arxiv.org/pdf/2004.06358) 
 - Multimodal Machine Translation through Visuals and Speech, Machine Translation journal-2020 (Springer), [[paper]](https://link.springer.com/article/10.1007/s10590-020-09250-0)
 
-## Codebase
+<h2 id="codebase">Codebase</h2>
+
 - ESPnet-ST: All-in-One Speech Translation Toolkit, ACL-2020 Demo, [[paper]](https://arxiv.org/pdf/2004.10234), [[code]](https://github.com/espnet/espnet)
 - FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ, AACL-2020 demo, [[paper]](https://arxiv.org/pdf/2010.05171.pdf), [[code]](https://github.com/pytorch/fairseq)
 - NeurST: Neural Speech Translation Toolkit, Arxiv-2020, [[paper]](https://arxiv.org/abs/2012.10018), [[code]](https://github.com/bytedance/neurst)
 
-## Dataset
+<h2 id="dataset">Dataset</h2>
+
 - Construction and Utilization of Bilingual Speech Corpus for Simultaneous Machine Interpretation Research, InterSpeech-2005,[[paper]](https://www.isca-speech.org/archive/archive_papers/interspeech_2005/i05_1585.pdf)
 - Approach to Corpus-based Interpreting Studies: Developing EPIC (European Parliament Interpreting Corpus), MuTra-2005, [[paper]](http://www.euroconferences.info/proceedings/2005_Proceedings/2005_Bendazzoli_Sandrelli.pdf)
 - Automatic Translation from Parallel Speech: Simultaneous Interpretation as MT Training Data, ASRU-2009, [[paper]](http://isl.anthropomatik.kit.edu/pdf/Paulik2009.pdf)
@@ -37,8 +59,11 @@ This is a paper list for speech translation.
 - MuST-Cinema: a Speech-to-Subtitles corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.10829)
 - CoVoST 2: A Massively Multilingual Speech-to-Text Translation Corpus, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2007.10310), [[code]](https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text)
 - The Multilingual TEDx Corpus for Speech Recognition and Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2102.01757.pdf)
+- mintzai-ST: Corpus and Baselines for Basque-Spanish Speech Translation，IberSPEECH-2021，[[paper]](https://www.isca-speech.org/archive/IberSPEECH_2021/pdfs/41.pdf)
+- BSTC: A Large-Scale Chinese-English Speech Translation Dataset, Arixv-2021, [[paper]](https://arxiv.org/abs/2104.03575)
 
-## Pipeline ST
+<h2 id="pipeline_st">Pipeline ST</h2>
+
 - Phonetically-Oriented Word Error Alignment for Speech Recognition Error Analysis in Speech Translation, ASRU-2015,[[paper]](https://ieeexplore.ieee.org/document/7404808)
 - Learning a Translation Model from Word Lattices, InterSpeech-2016, [[paper]](https://people.eng.unimelb.edu.au/tcohn/papers/adams16is.pdf)
 - Learning a Lexicon and Translation Model from Phoneme Lattices, EMNLP-2016, [[paper]](https://www.aclweb.org/anthology/D16-1263)
@@ -60,8 +85,8 @@ This is a paper list for speech translation.
 - A Technical Report: But Speech Translation Systems, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11593.pdf)
 - Direct Segmentation Models for Streaming Speech Translation, EMNLP-2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.206.pdf)
 
+<h2 id="end_to_end_st">End-to-end ST</h2> 
 
-## End-to-end ST 
 - Towards Speech Translation of Non Written Languages, IEEE-2006, [[paper]](https://ieeexplore.ieee.org/document/4123402)
 - Towards speech-to-text translation without speech recognition, EACL-2017, [[paper]](https://www.aclweb.org/anthology/E17-2076)
 - Listen and Translate: A Proof of Concept for End-to-End Speech-to-Text Translation, NIPS-2016, [[paper]](https://arxiv.org/abs/1612.01744)
@@ -140,8 +165,11 @@ This is a paper list for speech translation.
 - CTC-based Compression for Direct Speech Translation, EACL-2021, [[paper]](https://arxiv.org/pdf/2102.01578)
 - Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2102.05766.pdf)
 - Transformer-Based Direct Speech-To-Speech Translation With Transcoder, SLT-2021, [[paper]](https://ahcweb01.naist.jp/papers/conference/2021/202101_SLT_takatomo-k/202101_SLT_takatomo-k.paper.pdf)
+- Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation, NAACL-2021, [[paper]](https://arxiv.org/pdf/2104.06457.pdf)
+- Large-Scale Self- and Semi-Supervised Learning for Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2104.06678.pdf)
 
-## End-to-end Streaming ST
+<h2 id="end_to_end_streaming_st">End-to-end Streaming ST</h2>
+
 - Simuls2s: End-to-end Simultaneous Speech To Speech Translation, ICLR-2019(under review), [[paper]](https://openreview.net/pdf?id=Ske_56EYvS)
 - ON-TRAC Consortium for End-to-End and Simultaneous SpeechTranslation Challenge Tasks at IWSLT 2020, IWSLT-2020, [[paper]](https://arxiv.org/pdf/2005.11861)
 - SimulSpeech: End-to-End Simultaneous Speech to Text Translation, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.350.pdf)
@@ -150,14 +178,17 @@ This is a paper list for speech translation.
 - Simultaneous Speech-To-Speech Translation System With Neural Incremental Asr, Mt, And Tts, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2011.04845.pdf)
 - An Empirical Study Of End-To-End Simultaneous Speech Translation Decoding Strategies, ICASSP 2021, [[paper]](https://arxiv.org/pdf/2103.03233.pdf)
 
-## End-to-end NA ST
+<h2 id="end_to_end_na_st">End-to-end NA ST</h2>
+
 - Orthros: Non-Autoregressive End-To-End Speech Translation With Dual-Decoder, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.13047.pdf)
 
-## Multilingual ST
+<h2 id="multilingual_st">Multilingual ST</h2>
+
 - Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.00254.pdf)
 - One-To-Many Multilingual End-To-End Speech Translation, ASRU-2019, [[paper]](https://arxiv.org/pdf/1910.03320.pdf)
 
-## Multimodal MT
+<h2 id="multimodal_mt">Multimodal MT</h2>
+
 - Transformer-based Cascaded Multimodal Speech Translation, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1910.13215.pdf)
 - Towards Multimodal Simultaneous Neural Machine Translation, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2004.03180)
 - Towards Automatic Face-to-Face Translation, Arxiv-2020, [[paper]](https://arxiv.org/abs/2003.00418), [[code]](https://github.com/Rudrabha/LipGAN)
@@ -165,8 +196,11 @@ This is a paper list for speech translation.
 - DeepFuse: HKU’s Multimodal Machine Translation System for VMT’20, ALVR-2020, [[paper]](https://alvr-workshop.github.io/2020/challenge_papers/DeepFuse.pdf)
 - Team RUC AI·M3 Technical Report at VMT Challenge 2020: Enhancing Neural Machine Translation with Multimodal Rewards, ALVR-2020, [[paper]](https://alvr-workshop.github.io/2020/challenge_papers/ruc_report.pdf)
 - Exploiting Multimodal Reinforcement Learning for Simultaneous Machine Translation，EACL-2021,[[paper]](https://arxiv.org/pdf/2102.11387.pdf)
+- Cross-lingual Visual Pre-training for Multimodal Machine Translation, EACL-2021, [[paper]](https://arxiv.org/abs/2101.10044)
+- Generative Imagination Elevates Machine Translation, NAACL-2021, [[https://arxiv.org/abs/2009.09654]]
 
-## Streaming MT
+<h2 id="streaming_mt">Streaming MT</h2>
+
 - Simultaneous translation of lectures and speeches, Machine Translation-2007, [[paper]](https://ccc.inaoep.mx/~villasen/bib/Simultaneous%20translation%20of%20lectures%20and%20speeches.pdf)
 - Real-time incremental speech-to-speech translation of dialogs, NAACL-2012, [[paper]](https://www.aclweb.org/anthology/N12-1048)
 - Incremental segmentation and decoding strategies for simultaneous translation, IJCNLP-2013, [[paper]](https://www.aclweb.org/anthology/I13-1141)
@@ -201,21 +235,26 @@ This is a paper list for speech translation.
 - Improving Simultaneous Translation with Pseudo References, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11247.pdf)
 - Future-Guided Incremental Transformer for Simultaneous Translation, AAAI-2021, [[paper]](https://arxiv.org/pdf/2012.12465.pdf)
 - Faster Re-translation Using Non-Autoregressive Model For Simultaneous Neural Machine Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2012.14681)
+- Learning Coupled Policies for Simultaneous Machine Translation using Imitation Learning, EACL-2021, [[paper]](https://arxiv.org/abs/2002.04306)
 
+<h1 id="related_works">Related Works</h1>
 
-# Related Works
-## Automated audio captioning (AAC)
+<h2 id="automated_audio_captioning">Automated Audio Captioning</h2>
+
 - Effects Of Word-Frequency Based Pre- Annd Post- Processings For Audio Captioning, DCASE-2020, [[paper]](https://arxiv.org/pdf/2009.11436.pdf)
 
-## Named Entity Recognition
+<h2 id="named_entity_recognition">Named Entity Recognition</h2>
+
 - End-to-end Named Entity Recognition from English Speech, INTERSPEECH2020(submitted), [[paper]](https://arxiv.org/pdf/2005.11184)
 
-## Text Normalization
+<h2 id="text_normalization">Text Normalization</h2>
+
 - A Hybrid Text Normalization System Using Multi-Head Self-Attention For Mandarin, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04128.pdf)
 - A Unified Sequence-To-Sequence Front-End Model For Mandarin Text-To-Speech Synthesis, ICASSP-2020, [[paper]](https://arxiv.org/pdf/1911.04111.pdf)
 - Naturalization of Text by the Insertion of Pauses and Filler Words, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2011.03713.pdf)
 
-## Disfluency Detection
+<h2 id="disfluency_detection">Disfluency Detection</h2>
+
 - Semi-Supervised Disfluency Detection, COLING-2018, [[paper]](https://www.aclweb.org/anthology/C18-1299.pdf)
 - Adapting Translation Models for Transcript Disfluency Detection, AAAI-2019, [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4597)
 - Giving Attention to the Unexpected:Using Prosody Innovations in Disfluency Detection, Arxiv-2019, [[paper]](https://arxiv.org/pdf/1904.04388)
@@ -224,12 +263,14 @@ This is a paper list for speech translation.
 - Combining Self-Training and Self-Supervised Learning for Unsupervised Disfluency Detection, EMNLP-2020, [[paper]](https://arxiv.org/pdf/2010.15360.pdf), [[code]](https://github.com/scir-zywang/self-training-self-supervised-disfluency/)
 - Auxiliary Sequence Labeling Tasks For Disfluency Detection, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2011.04512.pdf)
 
-## Punctuation Prediction
+<h2 id="punctuation_prediction">Punctuation Prediction</h2>
+
 - Controllable Time-Delay Transformer for Real-Time Punctuation Prediction and Disfluency Detection, ICASSP-2020，[[paper]](https://arxiv.org/pdf/2003.01309)
 - Punctuation Prediction in Spontaneous Conversations: Can We Mitigate ASR Errors with Retrofitted Word Embeddings, INTERSPEECH-2020 (submitted), [[paper]](https://arxiv.org/pdf/2004.05985)
 - Multimodal Semi-supervised Learning Framework for Punctuation Prediction in Conversational Speech, INTERSPEECH-2020, [[paper]](https://arxiv.org/pdf/2008.00702)
 
-# Workshop
+<h1 id="workshop">Workshop</h1>
+
 - IWSLT 2018, [[link]](https://workshop2018.iwslt.org/index.php), [[paper]](https://workshop2018.iwslt.org/downloads/Proceedings_IWSLT_2018.pdf)
 - IWSLT 2019, [[link]](http://workshop2019.iwslt.org/), [[paper]](https://zenodo.org/communities/iwslt2019/search?page=1&size=20)
 - IWSLT 2020, [[link]](http://iwslt.org/doku.php?id=start), [[paper]](https://www.aclweb.org/anthology/2020.iwslt-1.1.pdf)
@@ -239,7 +280,8 @@ This is a paper list for speech translation.
 - AutoSimTrans 2021, [[link]](https://autosimtrans.github.io/)
 - NAACL同传Workshop：千言 - 机器同传, [[link]](https://aistudio.baidu.com/aistudio/competition/detail/62)
 
+<h1 id="copyright">Copyright</h1>
 
-# Copyright 
-By volunteers from Institute of Automation，Chinese Academy of Sciences.  
+By volunteers from Institute of Automation，Chinese Academy of Sciences & ByteDance AI Lab.
+  
 **Welcome to open an issue or make a pull request!**
