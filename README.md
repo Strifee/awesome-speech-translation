@@ -200,6 +200,7 @@ This is a paper list for speech translation.
 
 - Orthros: Non-Autoregressive End-To-End Speech Translation With Dual-Decoder, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.13047.pdf)
 - Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation, ACL-2021 Findings, [[paper]](https://arxiv.org/abs/2105.04840)
+- Non-autoregressive End-to-end Speech Translation with Parallel Autoregressive Rescoring, Arxiv-2021, [[paper]](https://arxiv.org/abs/2109.04411)
 
 <h2 id="multilingual_st">End-to-end Multilingual ST</h2>
 
