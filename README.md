@@ -182,6 +182,7 @@ This is a paper list for speech translation.
 - Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task, ACL-2021, [[paper]](https://arxiv.org/abs/2107.05782)
 - Beyond Sentence-Level End-to-End Speech Translation: Context Helps, ACL-2021, [[paper]](https://aclanthology.org/2021.acl-long.200.pdf)
 - AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation, ACL-2021, [[paper]](https://aclanthology.org/2021.findings-acl.224.pdf)
+- Speechformer: Reducing Information Loss in Direct Speech Translation, EMNLP-2021, [[paper]](https://arxiv.org/pdf/2109.04574.pdf)
 
 <h2 id="end_to_end_streaming_st">End-to-end Streaming ST</h2>
 
@@ -279,6 +280,7 @@ This is a paper list for speech translation.
 - Stream-level Latency Evaluation for Simultaneous Machine Translation, Arxiv-2021, [[paper]](https://arxiv.org/abs/2104.08817)
 - Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation, Interspeech 2021, [[paper]](https://arxiv.org/abs/2104.14470)
 - Full-Sentence Models Perform Better in Simultaneous Translation Using the Information Enhanced Decoding Strategy, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2105.01893)
+- Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy, EMNLP-2021, [[paper]](https://arxiv.org/pdf/2109.05238.pdf)
 
 <h1 id="related_works">Related Works</h1>
 
