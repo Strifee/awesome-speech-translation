@@ -93,6 +93,7 @@ This is a paper list for speech translation.
 - A Technical Report: But Speech Translation Systems, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11593.pdf)
 - Direct Segmentation Models for Streaming Speech Translation, EMNLP-2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.206.pdf)
 - Lost in Interpreting: Speech Translation from Source or Interpreter?, InterSpeech-2021, [[paper]](https://arxiv.org/abs/2106.09343)
+- Is “moby dick” a Whale or a Bird? Named Entities and Terminology in Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2109.07439.pdf)
 
 <h2 id="end_to_end_st">End-to-end ST</h2> 
 
@@ -196,6 +197,7 @@ This is a paper list for speech translation.
 - RealTranS: End-to-End Simultaneous Speech Translation with Convolutional Weighted-Shrinking Transformer, ACL-2021 Findings, [[paper]](https://arxiv.org/abs/2106.04833)
 - Direct Simultaneous Speech-to-Text Translation Assisted by Synchronized Streaming ASR, ACL-2021 Findings, [[paper]](https://arxiv.org/abs/2106.06636)
 - Simultaneous Speech Translation for Live Subtitling: from Delay to Display, Arxiv-2021, [[paper]](https://arxiv.org/abs/2107.08807)
+- UniST: Unified End-to-end Model for Streaming and Non-streaming Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2109.07368.pdf)
 
 <h2 id="end_to_end_na_st">End-to-end NA ST</h2>
 
