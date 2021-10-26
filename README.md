@@ -184,6 +184,7 @@ This is a paper list for speech translation.
 - Beyond Sentence-Level End-to-End Speech Translation: Context Helps, ACL-2021, [[paper]](https://aclanthology.org/2021.acl-long.200.pdf)
 - AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation, ACL-2021, [[paper]](https://aclanthology.org/2021.findings-acl.224.pdf)
 - Speechformer: Reducing Information Loss in Direct Speech Translation, EMNLP-2021, [[paper]](https://arxiv.org/pdf/2109.04574.pdf)
+- Fast-Md: Fast Multi-Decoder End-To-End Speech Translation With Non-Autoregressive Hidden Intermediates, ASRU-2021, [[paper]](https://arxiv.org/pdf/2109.12804.pdf)
 
 <h2 id="end_to_end_streaming_st">End-to-end Streaming ST</h2>
 
@@ -219,6 +220,7 @@ This is a paper list for speech translation.
 - Transformer-Based Direct Speech-To-Speech Translation With Transcoder, SLT-2021, [[paper]](https://ahcweb01.naist.jp/papers/conference/2021/202101_SLT_takatomo-k/202101_SLT_takatomo-k.paper.pdf)
 - Direct Speech-To-Speech Translation With Discrete Units, Arxiv-2021, [[paper]](https://arxiv.org/abs/2107.05604)
 - Translatotron 2: Robust Direct Speech-To-Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/abs/2107.08661)
+- Direct Simultaneous Speech To Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2110.08250.pdf)
 
 <h2 id="end_to_end_zero_shot_st">End-to-end Zero-shot ST</h2>
 
