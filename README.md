@@ -199,6 +199,7 @@ This is a paper list for speech translation.
 - Direct Simultaneous Speech-to-Text Translation Assisted by Synchronized Streaming ASR, ACL-2021 Findings, [[paper]](https://arxiv.org/abs/2106.06636)
 - Simultaneous Speech Translation for Live Subtitling: from Delay to Display, Arxiv-2021, [[paper]](https://arxiv.org/abs/2107.08807)
 - UniST: Unified End-to-end Model for Streaming and Non-streaming Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2109.07368.pdf)
+- Decision Attentive Regularization To Improve Simultaneous Speech Translation Systems, ICASSP-2022 submitted, [[paper]](https://arxiv.org/pdf/2110.15729.pdf)
 
 <h2 id="end_to_end_na_st">End-to-end NA ST</h2>
 
