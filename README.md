@@ -93,7 +93,7 @@ This is a paper list for speech translation.
 - A Technical Report: But Speech Translation Systems, Arxiv-2020, [[paper]](https://arxiv.org/pdf/2010.11593.pdf)
 - Direct Segmentation Models for Streaming Speech Translation, EMNLP-2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.206.pdf)
 - Lost in Interpreting: Speech Translation from Source or Interpreter?, InterSpeech-2021, [[paper]](https://arxiv.org/abs/2106.09343)
-- Is “moby dick” a Whale or a Bird? Named Entities and Terminology in Speech Translation, Arxiv-2021, [[paper]](https://arxiv.org/pdf/2109.07439.pdf)
+- Is “moby dick” a Whale or a Bird? Named Entities and Terminology in Speech Translation, EMNLP-2021, [[paper]](https://arxiv.org/pdf/2109.07439.pdf)
 
 <h2 id="end_to_end_st">End-to-end ST</h2> 
 
@@ -185,6 +185,7 @@ This is a paper list for speech translation.
 - AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation, ACL-2021, [[paper]](https://aclanthology.org/2021.findings-acl.224.pdf)
 - Speechformer: Reducing Information Loss in Direct Speech Translation, EMNLP-2021, [[paper]](https://arxiv.org/pdf/2109.04574.pdf)
 - Fast-Md: Fast Multi-Decoder End-To-End Speech Translation With Non-Autoregressive Hidden Intermediates, ASRU-2021, [[paper]](https://arxiv.org/pdf/2109.12804.pdf)
+- Mutual-Learning Improves End-to-End Speech Translation, EMNLP-2021, [[paper]](https://aclanthology.org/2021.emnlp-main.325.pdf)
 
 <h2 id="end_to_end_streaming_st">End-to-end Streaming ST</h2>
 
